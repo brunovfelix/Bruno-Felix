@@ -1,5 +1,16 @@
-# Software-Engineering
-My projects by University
+# Bruno Viana
 
-In this repository I will save all the projects that I will produce in my disciplines at the State University of Maringá, thanks 🎓
+Estudante de Engenharia de Software na UEM, atuando na área de BI e Dados.
 
+Atualmente trabalho com:
+- Power BI
+- Excel
+- Python
+- SQL
+- Automação de dados
+
+Tenho interesse em:
+- Business Intelligence
+- Analytics
+- IA aplicada a dados
+- Engenharia de dados
