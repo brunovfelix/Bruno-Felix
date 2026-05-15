@@ -19,4 +19,4 @@ Atualmente atuo na área de Business Intelligence, com interesse em:
 - Banco de Dados
 - Projetos em Python e Java
 - Estudos de Power BI
-- Projetos da Fcauldade de Engenharia de Software  
+- Projetos da Faculdade de Engenharia de Software  
