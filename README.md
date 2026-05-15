@@ -1,16 +1,22 @@
-# Bruno Viana
+# Bruno Felix
 
-Estudante de Engenharia de Software na UEM, atuando na área de BI e Dados.
+🎓 Estudante de Engenharia de Software - UEM  
+📊 Atuação em BI e Dados  
+🐍 Python | SQL | Power BI | Excel  
 
-Atualmente trabalho com:
-- Power BI
-- Excel
-- Python
-- SQL
-- Automação de dados
+## Sobre mim
 
-Tenho interesse em:
-- Business Intelligence
+Atualmente atuo na área de Business Intelligence, com interesse em:
 - Analytics
-- IA aplicada a dados
-- Engenharia de dados
+- Engenharia de Dados
+- IA aplicada
+- Business Intelligence
+
+## Repositórios
+
+- Algoritmos
+- Estrutura de Dados
+- Banco de Dados
+- Projetos em Python e Java
+- Estudos de Power BI
+- Projetos da Fcauldade de Engenharia de Software  
