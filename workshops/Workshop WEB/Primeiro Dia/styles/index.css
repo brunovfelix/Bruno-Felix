@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+
+}
+
+header{
+    display: flex;
+    justify-content: space-between;   
+    align-items: center;
+    height: 100px;
+    padding: 16px;
+    width: 100%;
+    position: fixed;
+    z-index: 10000000000000;
+    background-color: white;
+}
+
+h1{
+    font-size: 36px;
+    font-weight: bold;
+    color: #A08963;
+    font-family: 'Lexend', sans-serif;
+}
+
+.logo-header{
+    width : 50px;
+    
+}
+
+.icones{
+    font-size: 40px;
+    color :#A08963;
+}
+
+
+.conteudo-principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #A08963;
+    gap: 16px;
+}
+
+.conteudo-principal nav{
+    display: flex;
+}
+
+.conteudo-principal nav ul{
+    display: flex;
+    list-style-type: none;
+    gap : 68px;
+}
+
+.conteudo-principal nav ul li{
+    
+    min-width: 100px;
+    text-align: center;
+}

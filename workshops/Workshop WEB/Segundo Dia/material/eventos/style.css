@@ -1,0 +1,47 @@
+body {
+  margin-top: 20px;
+  font-family: sans-serif;
+  background: #e6f0ff;
+  color: #111;
+  display: flex;
+  justify-content: center;
+}
+
+.cartao {
+  text-align: center;
+  padding: 32px;
+  border: 2px solid #1e90ff;
+  border-radius: 16px;
+  background: #fff;
+  width: 100%;
+  max-width: 600px;
+}
+
+h1 {
+  font-size: 32px;
+  text-align: center;
+}
+
+button {
+  padding: 16px;
+  border: none;
+  border-radius: 8px;
+  background: #1e90ff;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.escuro {
+  background: #222;
+  color: #eee;
+}
+
+.escuro button {
+  background: #ff7b00;
+}
+
+.escuro .cartao {
+  background: #2c2c2c;
+  border-color: #ff7b00;
+}
